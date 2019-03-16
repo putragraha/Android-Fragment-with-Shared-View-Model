@@ -1,7 +1,7 @@
 # Android Application using Fragment with Shared View Model
 An Experimental Android application of Mine built with fragment to chunck view and using View Model to help data communication between fragments
 
-## Explanataion
+## Explanation
 ### Fragment
 An amazing feature of Android which happen to help split view of Android application to small chunk, and obviously, might ease us maintain and extend it 
 
